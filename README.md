@@ -9,4 +9,6 @@ Linguagens de Programação
 # Vai Corinthians
 
 # Programador
-Ana Rafaeli
+- Ana Rafaeli
+
+Repetição até a exaustão, com correção leva a perfeição
